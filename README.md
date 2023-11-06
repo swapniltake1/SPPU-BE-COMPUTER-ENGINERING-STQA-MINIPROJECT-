@@ -4,7 +4,7 @@ Software Testing and Quality Assurance Mini Project Dynamic webside of covid19 i
 
 Steps to run 
 
-Download Both files 
+Download Both Projects 
 
 Website Run On xmappp Server.
 
